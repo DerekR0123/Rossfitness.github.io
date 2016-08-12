@@ -479,10 +479,15 @@ header h2 {
 }
 
 .inner {
-  position: center;
-  width: 100%;
+  position: relative;
+  width: 90px;
   margin: 0 auto;
   background-color: black;
+}
+
+.banner {
+  width: 100%;
+  margin: 0 auto;
 }
 
 #content-wrapper {
