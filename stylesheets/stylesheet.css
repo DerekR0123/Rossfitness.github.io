@@ -16,10 +16,6 @@ html {
  * Remove default margin.
  */
 
-body {
-  margin: 0;
-  background-image: url("https://i.gyazo.com/b97b75bd9d53120eaebd61d6970a26a9.png");
-}
 
 /* HTML5 display definitions
    ========================================================================== */
@@ -434,7 +430,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #666;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  background: #000000 url(../images/body-bg.jpg) 0 0 repeat;
 }
 
 p {
