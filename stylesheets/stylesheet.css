@@ -76,6 +76,12 @@ template {
   display: none;
 }
 
+#video {
+  float:left;
+  display:inline;
+  width: 49%;
+}
+
 /* Links
    ========================================================================== */
 
