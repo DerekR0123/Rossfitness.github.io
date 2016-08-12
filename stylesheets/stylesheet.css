@@ -479,10 +479,11 @@ header h2 {
 }
 
 .inner {
-  position: relative;
+  position: auto;
   width: 100%;
   margin: 0 auto;
   background-color: black;
+  background-image: url("https://i.gyazo.com/b97b75bd9d53120eaebd61d6970a26a9.png");
 }
 
 #content-wrapper {
