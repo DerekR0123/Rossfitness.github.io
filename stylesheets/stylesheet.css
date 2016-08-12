@@ -383,11 +383,6 @@ input[type="search"]::-webkit-search-decoration {
  * Define consistent border, margin, and padding.
  */
 
-fieldset {
-  padding: 0.35em 0.625em 0.75em;
-  margin: 0 2px;
-  border: 1px solid #c0c0c0;
-}
 
 /**
  * 1. Correct `color` not being inherited in IE 8/9/10/11.
