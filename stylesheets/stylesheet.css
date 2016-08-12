@@ -439,7 +439,7 @@ body {
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
- /* background: #000000 url(../images/body-bg.jpg) 0 0 repeat;   this makes the background white */
+ /* background: #000000 url(../images/body-bg.jpg) 0 0 repeat;*/
   background-color: #D3D3D3;
   color: #FFFFFF;
 }
@@ -495,11 +495,11 @@ header h2 {
   width: 1000px;
   height:90px;
   margin: 0 auto;
-  background-color: #D3D3D3;
+  background-color: #808080;
 }
 
 #body {
-  background-color: #D3D3D3;
+  background-color: #808080;
 }
 
 
