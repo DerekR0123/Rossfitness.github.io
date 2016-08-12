@@ -77,10 +77,10 @@ template {
 }
 
 #video {
-  float:left;
-  display:inline;
-  width: auto;
-  margin-right: 14px;
+     float: left;
+   width: 30%;
+   min-width: 50px;
+   margin: 0 3%;
 }
 
 /* Links
