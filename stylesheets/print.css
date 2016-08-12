@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
   line-height: 1;
+  background-image: url("https://i.gyazo.com/b97b75bd9d53120eaebd61d6970a26a9.png");
 }
 ol, ul {
   list-style: none;
