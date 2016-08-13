@@ -86,7 +86,6 @@ template {
 
 a {
   background-color: transparent;
-  color: "yellow";
 }
 
 /**
@@ -96,6 +95,14 @@ a {
 a:active,
 a:hover {
   outline: 0;
+}
+a:link,
+a:visited {
+  color: yellow;
+}
+a:active {
+  color: purple;
+}
 }
 
 /* Text-level semantics
