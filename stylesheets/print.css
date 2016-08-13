@@ -221,7 +221,7 @@ footer a {
   height: 0;
   clear: both;
   visibility: hidden;
-  content: '.';
+  
 }
 
 .clearfix {display: inline-block;}
