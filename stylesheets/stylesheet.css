@@ -769,7 +769,7 @@ footer a:hover {
   height: 0;
   clear: both;
   visibility: hidden;
-  content: '.';
+  text-indent: 3px;
 }
 
 .clearfix {display: inline-block;}
