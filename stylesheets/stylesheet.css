@@ -797,7 +797,7 @@ footer a:hover {
     font-size: 30px;
   }
   #main-content {
-    width: 490px;
+    width: 740px;
   }
   #main-content h1:before,
   #main-content h2:before,
@@ -807,7 +807,6 @@ footer a:hover {
   #main-content h6:before {
     padding-right: 0;
     margin-left: 0;
-    content: none;
   }
 }
 
@@ -876,7 +875,6 @@ footer a:hover {
   #main-content h6:before {
     padding-right: 0;
     margin-left: 0;
-    content: none;
   }
 }
 
