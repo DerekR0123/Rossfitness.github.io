@@ -472,7 +472,6 @@ a:hover {
 
 header {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background:  url(https://embed.gyazo.com/b97b75bd9d53120eaebd61d6970a26a9.png) 0 0 repeat-x;
 }
 
 header h1 {
@@ -499,12 +498,12 @@ header h2 {
 
 .inner {
   position: relative;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
 }
 
 .banner {
-  width: 1000px;
+  width: 990px;
   height:900px;
   margin: 0 auto;
   
@@ -522,7 +521,7 @@ header h2 {
 
 #main-content {
   float: left;
-  width: 1800px;
+  width: 1780px;
   color: #FFFFFF;
   height: 1400px;
 }
