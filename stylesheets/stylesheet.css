@@ -398,7 +398,6 @@ input[type="search"]::-webkit-search-decoration {
  * Define consistent border, margin, and padding.
  */
  fieldset {
-  padding: 0.35em 0.625em 0.75em;
   margin: 0 2px;
   border: 1px solid #c0c0c0;
 }
@@ -507,6 +506,7 @@ header h2 {
   width: 1000px;
   height:900px;
   margin: 0 auto;
+  
   background-color: #808080;
 }
 
