@@ -92,8 +92,6 @@ template {
     z-index: -1;
 }
 
-var mp = iframe.getElementById('video-bg');
-mp.setVolume(0);
 
 /* Links
    ========================================================================== */
