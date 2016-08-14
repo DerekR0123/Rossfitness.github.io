@@ -18,8 +18,13 @@
 
   <body class="body">
     <header id="gk-header" role="banner" style="background-image: url('<?php header_image(); ?>');">
-        <iframe id="video-bg" src="https://www.youtube.com/embed/84c02RKScRw?rel=0&amp;autoplay=1&amp;controls=muted;controls=0;loop=1;playlist=84c02RKScRw" frameborder="0" allowfullscreen></iframe>
-          
+        <iframe id="video-bg" src="https://www.youtube.com/embed/84c02RKScRw?rel=0&amp;autoplay=1&amp;controls=0;loop=1;playlist=84c02RKScRw" frameborder="0" allowfullscreen></iframe>
+         <script>
+              // Load the IFrame Player API code asynchronously.
+              var tag = document.createElement('script');
+              tag.src = "https://www.youtube.com/embed/84c02RKScRw";
+              tag.volume = 0.2;
+              </script>
       <div class="inner">
       
       </div>
