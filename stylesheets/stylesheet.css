@@ -77,6 +77,22 @@ template {
 }
 
 
+#gk-bg {
+  background: transparent;
+}
+ 
+#gk-header {
+    background: transparent!important;
+    overflow: hidden;
+}
+#video-bg {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+
+
 /* Links
    ========================================================================== */
 
