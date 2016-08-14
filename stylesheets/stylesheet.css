@@ -498,12 +498,12 @@ header h2 {
 
 .inner {
   position: relative;
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
 }
 
 .banner {
-  width: 990px;
+  width: 1000px;
   height:900px;
   margin: 0 auto;
   
