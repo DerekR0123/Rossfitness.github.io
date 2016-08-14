@@ -92,6 +92,9 @@ template {
     z-index: -1;
 }
 
+var video-bg =  iframe.getElementById('video-bg'); 
+video-bg.mute();
+
 
 /* Links
    ========================================================================== */
