@@ -92,11 +92,11 @@ template {
     z-index: -1;
 }
 
-#roster {
-  color: white;
+h1.roster {
+    color: white;
     font-family: verdana;
     font-size: 300%;
-    align: center;
+    text-align: center;
 }
 
 
