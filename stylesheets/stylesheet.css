@@ -752,10 +752,13 @@ blockquote {
 }
 
 ul {
-  list-style-position: inside;
-  list-style: disc;
-  padding-left: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
+
 
 ol {
   list-style-position: inside;
