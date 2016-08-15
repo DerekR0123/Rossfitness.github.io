@@ -92,14 +92,6 @@ template {
     z-index: -1;
 }
 
-h1.roster {
-    color: white;
-    font-family: verdana;
-    font-size: 300%;
-    text-align: center;
-}
-
-
 /* Links
    ========================================================================== */
 
@@ -164,6 +156,7 @@ dfn {
 h1 {
   margin: 0.67em 0;
   font-size: 2em;
+  text-align: center;
 }
 
 /**
