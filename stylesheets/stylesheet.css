@@ -111,6 +111,7 @@ template {
 .roster-head {
     padding: 20px 0;
     background-color: #338AFF;
+    width: 100%;
 }
 /* Links
    ========================================================================== */
