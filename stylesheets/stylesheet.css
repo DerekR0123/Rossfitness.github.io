@@ -92,6 +92,9 @@ template {
     z-index: -1;
 }
 
+.roster-bg {
+  background: url(https://gyazo.com/a7e17c566ba44db88141ab966029c5ac) no-repeat center center fixed;
+}
 /* Links
    ========================================================================== */
 
