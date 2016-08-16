@@ -785,8 +785,6 @@ ul {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    min-width:auto;
-    width: 100%;
 }
 
 li {
