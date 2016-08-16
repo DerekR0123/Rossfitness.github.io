@@ -107,6 +107,11 @@ template {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.roster-head {
+    padding: 20px 0;
+    background-color: #338AFF;
+}
 /* Links
    ========================================================================== */
 
