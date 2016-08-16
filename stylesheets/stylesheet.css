@@ -904,8 +904,8 @@ footer a:hover {
     width: 93%;
   }
   header {
-    padding: 20px 0;
-    background-color: #000000;
+    padding: 0;
+    margin: 0;
   }
   header .inner {
     position: relative;
