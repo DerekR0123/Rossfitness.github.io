@@ -99,6 +99,14 @@ template {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.roster-body {
+  background: url(http://i.imgur.com/qS6AJaP.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 /* Links
    ========================================================================== */
 
