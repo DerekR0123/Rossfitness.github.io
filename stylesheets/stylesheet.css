@@ -1,4 +1,4 @@
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 /**
  * 1. Set default font family to sans-serif.
@@ -904,7 +904,7 @@ footer a:hover {
     width: 93%;
   }
   header {
-   padding: 20px 0;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   }
   header .inner {
     position: relative;
