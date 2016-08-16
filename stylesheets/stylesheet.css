@@ -109,6 +109,7 @@ template {
 }
 
 .roster-head {
+    padding: 20px 0;
     background-color: #338AFF;
 }
 /* Links
@@ -782,6 +783,7 @@ ul {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    width: 100%;
 }
 
 li {
