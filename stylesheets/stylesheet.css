@@ -111,6 +111,7 @@ template {
 .roster-head {
     padding: 20px 0;
     background-color: #338AFF;
+    min-width:auto;
     width: 100%;
 }
 /* Links
@@ -812,7 +813,8 @@ li.dropdown {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 160px;
+    min-width:auto;
+    width: 100%;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
@@ -822,6 +824,7 @@ li.dropdown {
     text-decoration: none;
     display: block;
     text-align: left;
+    
 }
 
 .dropdown-content a:hover {background-color: #f9f9f9}
