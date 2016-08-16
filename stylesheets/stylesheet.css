@@ -789,8 +789,6 @@ ul {
 
 li {
   float: left;
-    min-width:auto;
-    width: 100%;
 }
 
 li a, .dropbtn {
