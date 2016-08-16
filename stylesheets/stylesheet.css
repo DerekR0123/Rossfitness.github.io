@@ -785,11 +785,14 @@ ul {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    min-width:auto;
     width: 100%;
 }
 
 li {
   float: left;
+    min-width:auto;
+    width: 100%;
 }
 
 li a, .dropbtn {
@@ -798,6 +801,8 @@ li a, .dropbtn {
     text-align: ce338AFF;
     padding: 25px 50px;
     text-decoration: none;
+    min-width:auto;
+    width: 100%;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
