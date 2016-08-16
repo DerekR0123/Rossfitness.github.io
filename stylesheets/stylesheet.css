@@ -110,6 +110,8 @@ template {
 
 .roster-head {
     background-color: #338AFF;
+    min-width:auto;
+    width: 100%;
 }
 /* Links
    ========================================================================== */
