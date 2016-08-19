@@ -171,6 +171,28 @@ template {
   padding-left: 3px;
 }
 
+.clips-bg {
+  background: url(https://arma3.com/assets/img/post/images/arma3_e32013_screenshot_03.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.clips-body {
+  background: url(https://arma3.com/assets/img/post/images/arma3_e32013_screenshot_03.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.clips-head {
+    background-color: #338AFF;
+    min-width:auto;
+    width: 100%;
+}
+
 /* Links
    ========================================================================== */
 
