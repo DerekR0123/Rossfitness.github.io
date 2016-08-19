@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
 	<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+	<script type="text/javascript">
+	    myVid=document.getElementById("video1");
+	    myVid.muted=true;
+	</script>
 	<head>
 		<title>Video Background</title>
 
@@ -73,8 +77,8 @@
 		
 		
 		<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
-		  <iframe frameborder="0" height="100%" width="100% muted="muted"" 
-		    src="https://www.youtube.com/embed/ytfuL9oZ0ss?autoplay=1&controls=0&showinfo=0&autohide=1"muted=muted>
+		  <iframe frameborder="0" height="100%" width="100%" 
+		    src="https://www.youtube.com/embed/ytfuL9oZ0ss?autoplay=1&controls=0&showinfo=0&autohide=1"id="video1">
 		  </iframe>
 		</div>
 
