@@ -214,28 +214,25 @@ template {
 	}
 	
   .highlights-bg {
-  background: url(http://assets2.ignimgs.com/2015/06/17/2015-06-1619-37-53jpg-a5773a.jpg) no-repeat center center fixed;
+  background: url(http://steamcommunity-a.akamaihd.net/economy/image/U8721VM9p9C2v1o6cKJ4qEnGqnE7IoTQgZI-VTdwyTBeimAcIoxXpgK8bPeslY9pPJIvB5IWW2-452kaM8heLSRgleGCprJNwO94ZaZ7g7P5XAgo5eBABmDiGEPT0j6QcLurlQZmZpR4fU6kyJcfvYpeCp95SOLeUoxYSQ) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: 500;
 }
 
 .highlights-body {
-  background: url(http://assets2.ignimgs.com/2015/06/17/2015-06-1619-37-53jpg-a5773a.jpg) no-repeat center center fixed;
+  background: url(http://steamcommunity-a.akamaihd.net/economy/image/U8721VM9p9C2v1o6cKJ4qEnGqnE7IoTQgZI-VTdwyTBeimAcIoxXpgK8bPeslY9pPJIvB5IWW2-452kaM8heLSRgleGCprJNwO94ZaZ7g7P5XAgo5eBABmDiGEPT0j6QcLurlQZmZpR4fU6kyJcfvYpeCp95SOLeUoxYSQ) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: 500;
 }
 
 .highlights-head {
     background-color: #338AFF;
     min-width:auto;
     width: 100%;
-    z-index: 500;
 }
 
 
