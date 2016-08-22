@@ -210,7 +210,7 @@ template {
 		font-size: 20px;
 		letter-spacing: 3px;
 		color: #aaa;
-		padding-left:5%;
+		padding-left:8%;
 	}
 	
   .highlights-bg {
@@ -219,7 +219,7 @@ template {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: -100;
+  z-index: 500;
 }
 
 .highlights-body {
@@ -228,14 +228,14 @@ template {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: -100;
+  z-index: 500;
 }
 
 .highlights-head {
     background-color: #338AFF;
     min-width:auto;
     width: 100%;
-    z-index: -100;
+    z-index: 500;
 }
 
 
