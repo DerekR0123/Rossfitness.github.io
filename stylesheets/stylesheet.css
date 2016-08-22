@@ -196,8 +196,6 @@ template {
   #highlights-h1 {
 	}
     	.content-highlights {
-		width: 100%;
-		min-height: 100%;
 	}
 	.content-highlights h1 {
 		font-size: 65px;
@@ -221,6 +219,7 @@ template {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  z-index: -100;
 }
 
 .highlights-body {
@@ -229,12 +228,14 @@ template {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  z-index: -100;
 }
 
 .highlights-head {
     background-color: #338AFF;
     min-width:auto;
     width: 100%;
+    z-index: -100;
 }
 
 
