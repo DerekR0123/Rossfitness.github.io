@@ -1,3 +1,5 @@
+/* Created by Derek Ross,  DerekR0123.github.io   ,  www.bluegatorade.xyz   */
+
 console.log('This would be the main JS file.');
 var vid = document.getElementById("video-bg");
 vid.volume = 0.2;
