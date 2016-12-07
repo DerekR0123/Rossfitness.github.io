@@ -37,6 +37,7 @@ body {
     display: block;
     padding: 10px 20px;
     color: white;
+    border-right: 1px solid #FFFFFF
 }
 .nav ul li a:hover {
     color: white;
