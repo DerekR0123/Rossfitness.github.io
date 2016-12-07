@@ -5,7 +5,7 @@ body {
 .header {
     width: 100%;
     height: auto;
-    background-color: #000000;
+    background-color: #FFFFFF;
     padding-top: 24px;
 }
 .headerContent {
@@ -22,7 +22,7 @@ body {
 .nav {
     margin-top: 20px;
     height: 40px;
-    background-color: #000000;
+    background-color: #FFFFFF;
 }
 .nav ul {
     margin: 0;
@@ -36,13 +36,12 @@ body {
     float: left;
     display: block;
     padding: 10px 20px;
-    color: white;
-    border-right: 1px solid #FFFFFF;
-    border-top: 1px solid #FFFFFF;
+    color: black;
+    border-right: 1px solid #000000;
     
 }
 .nav ul li a:hover {
-    color: white;
+    color: blue;
 }
 .headerBreak {
     width: 100%;
