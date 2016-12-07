@@ -22,7 +22,7 @@ body {
 .nav {
     margin-top: 20px;
     height: 40px;
-    background: #000000;
+    background-color: #000000;
 }
 .nav ul {
     margin: 0;
