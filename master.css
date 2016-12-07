@@ -39,7 +39,7 @@ ul#top_nav  {
   margin: 0;
   padding: 0;
   margin-bottom: 50px;
-   width: cover;
+   width: 100%;
   -webkit-box-shadow: cover;
      -moz-box-shadow: cover;
           box-shadow: cover;
