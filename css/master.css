@@ -13,3 +13,22 @@ div.wrap  {
     width: 960px;
     margin: 50px auto;
 }
+
+
+/* -------- Horizontal Menu --------- */
+ul#top_nav  {
+    border: 1px solid #292929;
+    margin: 0;
+    padding: 0;
+    width: 850px;
+    margin-bottom: 50px;
+ 
+    -webkit-box-shadow: 0 3px 3px #3c3c40;
+    -moz-box-shadow: 0 3px 3px #3c3c40;
+    box-shadow: 0 3px 3px #3c3c40;
+}
+ 
+ul#top_nav li {
+    list-style: none;
+    float: left;
+}
