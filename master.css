@@ -56,13 +56,6 @@ body {
 
 
 
-
-#nav ul li {
-    display: inline-block;
-}
-#nav ul li:hover {
-    background-color: #333;
-}
 #nav ul li a, visited {
     color: #CCC;
     display: block;
