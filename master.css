@@ -30,6 +30,7 @@ body {
 }
 .nav ul li {
     list-style: none;
+    display: inline-block;
 }
 .nav ul li a {
     text-decoration: none;
@@ -49,45 +50,24 @@ body {
     border-bottom: 2px solid #000000;
 }
 
-.nav-content {
+.nav ul li:hover ul {
+    display: block;
+}
+
+#nav li ul {
+    display: none;
     position: absolute;
-    top: 70px;
-    overflow: hidden;
-    background-color: #FFFFFF;
-    max-height: 0;
+    background-color: #333;
+    border: 5px solid #222;
+    border-top: 0;
+    margin-left: -5px;
 }
 
-.nav-content a {
-    color: #FFFFFF;
-    text-decoration: none;
+#nav ul ul li {
+    display: block;
+}
+#nav ul ul li a:hover {
+    color: #699;
 }
 
-.nav-content a:hover {
-    text-decoration: underline;
-}
 
-.nav-sub {
-    padding: 20px;
-}
-
-.nav-sub ul {
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-}
-
-.nav-sub ul li a {
-    display: inline-block;
-    padding: 5px 0;
-}
-
-.nav-item: focus {
-    background-color: #444;
-}
-
-.nav-item: focus ~ .nav-content {
-    max-height: 400px;
-    -webkit-transition:max-height 0.4s ease-in;
-    -moz-transition:max-height 0.4s ease-in;
-    transition:max-height 0.4s ease-in;
-}
