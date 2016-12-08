@@ -50,32 +50,5 @@ body {
     border-bottom: 2px solid #000000;
 }
 
-.nav ul li:hover ul {
-    display: block;
-}
 
-#nav li ul {
-    display: none;
-    position: absolute;
-    background-color: #333;
-    border: 5px solid #222;
-    border-top: 0;
-    margin-left: -5px;
-}
-
-#nav ul ul li {
-    display: block;
-}
-#nav ul ul li a:hover {
-    color: #699;
-}
-
-#nav ul ul {
-    display: none;
-    position: absolute;
-    background-color: #333;
-    border: 5px solid #222;
-    border-top: 0;
-    margin-left: -5px;
-}
 
