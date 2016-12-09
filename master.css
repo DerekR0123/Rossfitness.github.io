@@ -58,7 +58,7 @@ body {
 	display:block;
 }
 
-.nav_wrap ul ul
+.nav ul ul
 {
 	display:none;
 	position:absolute;
@@ -66,19 +66,19 @@ body {
 	background:#fff;
 }
 
-.nav_wrap ul ul li
+.nav ul ul li
 {
 	float:none;
 	width:200px;
 }
 
-.nav_wrap ul ul a
+.nav ul ul a
 {
 	line-height:120%;
 	padding:10px 15px;
 }
 
-.nav_wrap ul ul ul
+.nav ul ul ul
 {
 	top:0;
 	left:100%;
