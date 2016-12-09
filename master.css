@@ -44,7 +44,10 @@ body {
 	line-height:32px;
 	padding: 10px 20px;
 	font-family:Tahoma, Verdana, Arial;
-
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 1px solid #000000;
 }
 
 #nav_wrap ul li
