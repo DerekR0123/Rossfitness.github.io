@@ -290,13 +290,18 @@ table {
 td, th {
     border: 1px solid #dddddd;
     text-align: left;
+    font-color: white;
     padding: 20px;
     margin-bottom: 5px;
     padding-bottom: 50px;
 }
 
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #E7F5FF;
+}
+
+tr:nth-child(odd) {
+    background-color: #78C3FA;
 }
 
 @media(min-width:768px) {
