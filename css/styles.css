@@ -54,6 +54,7 @@ p {
     font-size: 17px;
     line-height: 1.7;
     margin-bottom: 20px;
+    text-indent: 50px;
 }
 
 .wide-space {
@@ -278,6 +279,24 @@ header .header-content .inner p {
 
 footer {
     background-color:#2d2d2d;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 115%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 20px;
+    margin-bottom: 5px;
+    padding-bottom: 50px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
 
 @media(min-width:768px) {
