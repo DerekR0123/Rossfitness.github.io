@@ -290,7 +290,7 @@ table {
 td, th {
     border: 1px solid #000000;
     text-align: left;
-    color: #000000
+    color: #000000;
     padding: 20px;
     margin-bottom: 5px;
     padding-bottom: 50px;
@@ -298,10 +298,12 @@ td, th {
 
 tr:nth-child(even) {
     background-color: #E7F5FF;
+    color: #000000;
 }
 
 tr:nth-child(odd) {
     background-color: #78C3FA;
+    color: #000000;
 }
 
 @media(min-width:768px) {
