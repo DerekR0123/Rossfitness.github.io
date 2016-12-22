@@ -112,6 +112,12 @@ footer {
     padding: 0;
 }
 
+div img{
+         width: 200px;
+         height:200px;
+ }
+
+
 .navbar-default {
     border-color: rgba(35,35,35,.05);
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
