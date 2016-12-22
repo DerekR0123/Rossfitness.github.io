@@ -112,10 +112,9 @@ footer {
     padding: 0;
 }
 
-div img{
-         width: 200px;
-         height:200px;
- }
+#imagewall img {
+  width: 100px;
+  height: 100px; }
 
 
 .navbar-default {
