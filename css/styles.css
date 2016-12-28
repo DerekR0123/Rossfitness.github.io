@@ -71,7 +71,8 @@ p {
 }
 
 .bg-primary {
-    background-color: #FFFFFF;
+    background-color: #DFFFF1;
+    color: #000000
 }
 
 .bg-dark {
