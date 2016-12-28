@@ -40,7 +40,7 @@ hr.light {
 }
 
 a {
-    color: #1b1be1;
+    color: #3EF7A2;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -48,7 +48,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #1b1be1;
+    color: #3EF7A2;
     outline: 0;
 }
 
@@ -73,7 +73,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #1b1be1;
+    background-color: #3EF7A2;
 }
 
 .bg-dark {
@@ -95,7 +95,7 @@ p {
 }
 
 .text-primary {
-    color: #1b1be1;
+    color: #3EF7A2;
 }
 
 .modal-content {
@@ -218,14 +218,14 @@ border: 1px solid #000000;
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 15px;
-        color: #1b1be1;
+        color: #3EF7A2;
         padding: 20px;
         letter-spacing: 1px;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #8b27b0;
+        color: #3EF7A2;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -315,7 +315,7 @@ tr:nth-child(even) {
 }
 
 tr:nth-child(odd) {
-    background-color: #78C3FA;
+    background-color: #3EF7A2;
     color: #000000;
 }
 
