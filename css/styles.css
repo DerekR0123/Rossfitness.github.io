@@ -40,7 +40,7 @@ hr.light {
 }
 
 a {
-    color: #337ab7;
+    color: #1b1be1;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -48,7 +48,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #337ab7;
+    color: #1b1be1;
     outline: 0;
 }
 
@@ -73,7 +73,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #333;
+    background-color: #1b1be1;
 }
 
 .bg-dark {
@@ -95,7 +95,7 @@ p {
 }
 
 .text-primary {
-    color: #337ab7;
+    color: #1b1be1;
 }
 
 .modal-content {
@@ -218,7 +218,7 @@ border: 1px solid #000000;
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 15px;
-        color: #9c27b0;
+        color: #1b1be1;
         padding: 20px;
         letter-spacing: 1px;
     }
@@ -236,7 +236,7 @@ border: 1px solid #000000;
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: ##FFFFFF;
+        color: #FFFFFF;
     }
 }
 
