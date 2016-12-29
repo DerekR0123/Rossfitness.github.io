@@ -97,6 +97,11 @@ p {
     font-family: "Impact, Charcoal, sans-serif";
 }
 
+.text-primary-dark {
+    color: #000000;
+    font-family: "Impact, Charcoal, sans-serif";
+}
+
 .modal-content {
     background-color: #1d1d1d;
 }
